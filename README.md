@@ -1,0 +1,4 @@
+This calculator will have a graphical user interface (GUI) and support basic mathematical operations such as addition, subtraction, multiplication, and division.
+firstly import TKinter library and then create class after that add an equation line in which the user can input mathematical expressions. This field will display both the equation and the result.
+Add buttons to the GUI for digits (0-9) and mathematical operations (+, -, *, /).These buttons will be clickable and allow the user to input values and perform calculationsand then Define functions that handle button clicks.
+conclusion:Building a GUI calculator in Python with Tkinter allows you to create an interactive and user-friendly application. By combining widgets, handling button clicks, and implementing mathematical operations, you can create a functional calculator that enhances the user experience.
